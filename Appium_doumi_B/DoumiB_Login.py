@@ -34,22 +34,22 @@ driver.find_element_by_xpath("//android.widget.Button[@content-desc='登录']").
 
 driver.implicitly_wait(10)
 
-driver.find_element_by_xpath("//android.widget.TextView[@text='直聘通']").click()
-#全部职位
-driver.implicitly_wait(2)
-driver.find_element_by_xpath("//android.widget.TextView[@text='全部职位']").click()
-#招聘中
-driver.implicitly_wait(2)
-driver.find_element_by_xpath("//android.widget.TextView[@text='招聘中']").click()
-#审核中
-driver.implicitly_wait(2)
-driver.find_element_by_xpath("//android.widget.TextView[@text='审核中']").click()
-#审核拒绝
-driver.implicitly_wait(2)
-driver.find_element_by_xpath("//android.widget.TextView[@text='审核拒绝']").click()
-#已结束
-driver.implicitly_wait(2)
-driver.find_element_by_xpath("//android.widget.TextView[@text='已结束']").click()
+# driver.find_element_by_xpath("//android.widget.TextView[@text='直聘通']").click()
+# #全部职位
+# driver.implicitly_wait(2)
+# driver.find_element_by_xpath("//android.widget.TextView[@text='全部职位']").click()
+# #招聘中
+# driver.implicitly_wait(2)
+# driver.find_element_by_xpath("//android.widget.TextView[@text='招聘中']").click()
+# #审核中
+# driver.implicitly_wait(2)
+# driver.find_element_by_xpath("//android.widget.TextView[@text='审核中']").click()
+# #审核拒绝
+# driver.implicitly_wait(2)
+# driver.find_element_by_xpath("//android.widget.TextView[@text='审核拒绝']").click()
+# #已结束
+# driver.implicitly_wait(2)
+# driver.find_element_by_xpath("//android.widget.TextView[@text='已结束']").click()
 
 
 if __name__ == '__main__':

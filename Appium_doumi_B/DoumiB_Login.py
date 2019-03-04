@@ -1,5 +1,8 @@
 # -*- coding:utf-8 -*-
 import os, time, unittest
+import sys
+reload(sys)
+sys.setdefaultencoding('utf8')
 
 from selenium import webdriver
 from appium import webdriver

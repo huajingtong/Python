@@ -20,11 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Appium_doumi_B/DoumiB_Login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-              <folding>
-                <element signature="e#23#48#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="63">
+              <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -193,12 +190,12 @@
       <workItem from="1551578644115" duration="1634000" />
       <workItem from="1551585710416" duration="102000" />
       <workItem from="1551585829911" duration="31000" />
-      <workItem from="1551687733116" duration="966000" />
+      <workItem from="1551687733116" duration="1610000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24456000" />
+    <option name="totallyTimeSpent" value="25100000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -241,11 +238,8 @@
     <entry file="file://$PROJECT_DIR$/haha.py" />
     <entry file="file://$PROJECT_DIR$/Appium_doumi_B/DoumiB_Login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="e#23#48#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="63">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
         </state>
       </provider>
     </entry>
